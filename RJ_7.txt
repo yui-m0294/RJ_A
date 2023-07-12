@@ -1,0 +1,11 @@
+person
+bench
+chair
+baseball glove
+suitcase
+backpack
+traffic light
+sports ball
+cup
+frisbee
+handbag
